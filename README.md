@@ -9,4 +9,4 @@ iré ampliando información en este repositorio, teneis tanto los archivos STL c
 
 IMPORTANTE!!! Ni en el video ni aqui se explica como configurar el modulo bluetooth, hemos seguido esta guía  --> https://cutt.ly/jjOta6g
 
-EN CONSTRUCCION
+Puedes ver el video del montaje, instalacion y uso en mi Canal de Youtube. https://youtu.be/2Y3kqopLcV4
