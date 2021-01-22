@@ -2,9 +2,9 @@
 /* Hemos creado este pequeño firmware para poder hacer funcionar nuestros slider con su APP Correspondiente
  *  de momento nuestro slider es de un solo eje y se mueve de inicio a fin en funcion del tiempo indicado
  *  la APP para android que hemos creado y que podeis descargar aquí--->
- *  Para ver el video del montaje y configutacion puedes ir a mi canal de Youtube--> https://www.youtube.com/srferrete 
+ *  Para ver el video del montaje y configutacion puedes ir a mi canal de Youtube--> https://youtu.be/2Y3kqopLcV4
  *  IMPORTANTE!!! Ni en el video ni aqui se explica como configurar el modulo bluetooth, hemos seguido esta guía  --> https://cutt.ly/jjOta6g
- *  La descarga de los ficheros STL para el montaje está Aquí -- >
+ *  La descarga de los ficheros STL para el montaje está Aquí -- >https://github.com/Srferrete/SFRSlider/tree/main/Stls
  *  Todo esto se ha creado bajo licencia https://creativecommons.org/licenses/by-nc/4.0/ compartir y dar reconocimiento a los creadores no cuesta nada, COMPARTE Y DISFRUTA
 /***********************************************************SFRSlider**************************************************************/
 
